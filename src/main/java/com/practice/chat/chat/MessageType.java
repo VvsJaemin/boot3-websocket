@@ -4,6 +4,7 @@ public enum MessageType {
 
     CHAT,
     JOIN,
-    LEAVER
+    LEAVER,
+    LEAVER2
 
 }
